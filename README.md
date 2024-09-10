@@ -16,6 +16,7 @@ I'm a **sophomore at the University of California, Riverside**, passionate about
 - Expanding my language proficiency to broaden my versatility
 - Diving into AI-based education
 - Improving my knowledge of Data Structures and Algorithms
+- Other Programming Languages and Libraries
 
 ## 😄 Fun facts about me:
 - **Avid soccer player**: You can catch me on the field whenever I'm not coding!
