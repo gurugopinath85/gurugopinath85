@@ -10,7 +10,7 @@ I'm a **sophomore at the University of California, Riverside**, passionate about
 **Note:** My projects are constantly evolving as I rework and improve them. I'm always looking for ways to enhance their functionality and design.
 
 ## 🛠️ Technologies I Use:
-- **Programming Languages**: C++, JavaScript, Python, HTML, CSS
+- **Programming Languages**: C++, Java, React, Typescript, Tailwind CSS, JavaScript, Python, HTML, CSS
 
 ## 🌱 I’m currently learning:
 - Expanding my language proficiency to broaden my versatility
