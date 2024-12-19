@@ -2,13 +2,6 @@
 
 I'm a **sophomore at the University of California, Riverside**, passionate about building innovative software solutions and constantly learning new technologies. Currently, I have a solid understanding of **C++, JavaScript, Python, HTML, CSS**, and I'm diving deeper into **React.js** and **Node.js** to expand my ability to create applications that enhance user experiences. I also have a growing interest in AI-based learning, and I’m always discovering new concepts in the field.
 
-## 🔭 Projects I'm working on:
-- **Personal Portfolio Website**: A platform showcasing my projects, experiences, and skills.
-- **WhyKnot**: An ECommerce site designed for a small crocheting side hustle my sister is passionate about.
-- **JotDown**: A lightweight, quick note-taking Chrome extension built for efficiency and simplicity.
-
-**Note:** My projects are constantly evolving as I rework and improve them. I'm always looking for ways to enhance their functionality and design.
-
 ## 🛠️ Technologies I Use:
 - **Programming Languages**: C++, Java, React, Typescript, Tailwind CSS, JavaScript, Python, HTML, CSS
 
